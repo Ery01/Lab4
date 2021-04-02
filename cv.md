@@ -10,3 +10,4 @@ Conocimientos de Programación:
 
 Experiencia laboral
 1 año trabajando con Oracle
+Actualmente trabajando con JSF
