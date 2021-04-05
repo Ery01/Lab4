@@ -1,4 +1,4 @@
-#DENIFICIONES DE GIT
+# DENIFICIONES DE GIT
 
 **Local:** El archivo en la rama donde se está fusionando; no afectado por el
  proceso de combinación cuando se le muestra.
