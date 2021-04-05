@@ -1,13 +1,14 @@
 
-Apellido: Tello.
-Nombre: Eric, Gastón.
-Telefono: 35180654856
+## CV
+**Apellido**: Tello. 
+**Nombre**: Eric, Gastón. 
+**Telefono**: 35180654856
 
-Conocimientos de Programación:
--Java
--C++
--C#
+##Conocimientos de Programación
+- Java 
+- C++ 
+- C#
 
-Experiencia laboral
-1 año trabajando con Oracle
-Actualmente trabajando con JSF
+##Experiencia laboral
+- 1 año trabajando con Oracle 
+- Actualmente trabajando con JSF
